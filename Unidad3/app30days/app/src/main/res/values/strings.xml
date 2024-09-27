@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">30 Dias de Clásicos</string>
+
+    <string name="movie_title_1">Casablanca (1942)</string>
+    <string name="movie_description_1">Una historia de amor y sacrificio en la turbulenta Casablanca durante la Segunda Guerra Mundial, con Humphrey Bogart e Ingrid Bergman.</string>
+
+    <string name="movie_title_2">Ciudadano Kane (1941)</string>
+    <string name="movie_description_2">El retrato fascinante del ascenso y caída de un magnate de los medios de comunicación. Dirigida y protagonizada por Orson Welles.</string>
+
+    <string name="movie_title_3">Lo que el viento se llevó (1939)</string>
+    <string name="movie_description_3">Un drama épico sobre el amor, la guerra y la reconstrucción del sur de Estados Unidos, con Vivien Leigh y Clark Gable.</string>
+
+    <string name="movie_title_4">Psicosis (1960)</string>
+    <string name="movie_description_4">Un thriller psicológico dirigido por Alfred Hitchcock, que marcó un antes y un después en el cine de terror y suspenso.</string>
+
+    <string name="movie_title_5">El Padrino (1972)</string>
+    <string name="movie_description_5">La historia épica de la familia Corleone y su lucha por el poder en el mundo del crimen organizado. Dirigida por Francis Ford Coppola.</string>
+
+    <string name="movie_title_6">Cantando bajo la lluvia (1952)</string>
+    <string name="movie_description_6">Una alegre comedia musical que muestra la transición del cine mudo al sonoro, con icónicas actuaciones y coreografías.</string>
+
+    <string name="movie_title_7">Vértigo (1958)</string>
+    <string name="movie_description_7">Un thriller psicológico de Alfred Hitchcock sobre obsesión y traición, protagonizado por James Stewart y Kim Novak.</string>
+
+    <string name="movie_title_8">Con faldas y a lo loco (1959)</string>
+    <string name="movie_description_8">Una comedia icónica protagonizada por Marilyn Monroe, Tony Curtis y Jack Lemmon. Dos músicos se disfrazan de mujeres para escapar de la mafia.</string>
+
+    <string name="movie_title_9">Ben-Hur (1959)</string>
+    <string name="movie_description_9">Una épica aventura sobre venganza y redención en la época del Imperio Romano. Ganadora de 11 premios Óscar.</string>
+
+    <string name="movie_title_10">El halcón maltés (1941)</string>
+    <string name="movie_description_10">Humphrey Bogart interpreta a un detective privado en una intrincada trama de misterio y traición. Un clásico del cine negro.</string>
+
+    <string name="movie_title_11">Rebelde sin causa (1955)</string>
+    <string name="movie_description_11">James Dean protagoniza este drama juvenil que capturó la angustia y rebeldía de una generación.</string>
+
+    <string name="movie_title_12">El apartamento (1960)</string>
+    <string name="movie_description_12">Una comedia romántica y dramática sobre la ambición y el amor en el mundo corporativo. Ganadora del Óscar a Mejor Película.</string>
+
+    <string name="movie_title_13">La Dolce Vita (1960)</string>
+    <string name="movie_description_13">Dirigida por Federico Fellini, sigue la vida de un periodista que busca el sentido de la vida en la alta sociedad de Roma.</string>
+
+    <string name="movie_title_14">Lawrence de Arabia (1962)</string>
+    <string name="movie_description_14">Un biopic épico sobre la vida de T. E. Lawrence y sus aventuras en el desierto árabe durante la Primera Guerra Mundial.</string>
+
+    <string name="movie_title_15">Nosferatu (1922)</string>
+    <string name="movie_description_15">Una de las primeras películas de vampiros, dirigida por F. W. Murnau, que definió el género del terror en el cine mudo.</string>
+
+    <string name="movie_title_16">Un tranvía llamado deseo (1951)</string>
+    <string name="movie_description_16">Un drama intenso con Marlon Brando y Vivien Leigh, basado en la obra de Tennessee Williams.</string>
+
+    <string name="movie_title_17">Metrópolis (1927)</string>
+    <string name="movie_description_17">Una película de ciencia ficción visionaria dirigida por Fritz Lang, que retrata una distópica ciudad del futuro.</string>
+
+    <string name="movie_title_18">La ventana indiscreta (1954)</string>
+    <string name="movie_description_18">Un fotógrafo observa desde su ventana la vida de sus vecinos y se convence de que ha sido testigo de un asesinato.</string>
+
+    <string name="movie_title_19">Cuentos de Tokio (1953)</string>
+    <string name="movie_description_19">Dirigida por Yasujirō Ozu, este drama explora la relación entre padres ancianos y sus hijos en la sociedad japonesa moderna.</string>
+
+    <string name="movie_title_20">La noche del cazador (1955)</string>
+    <string name="movie_description_20">Un predicador homicida busca el dinero escondido por un hombre muerto en esta aterradora película de suspense.</string>
+
+    <string name="movie_title_21">Eva al desnudo (1950)</string>
+    <string name="movie_description_21">Una joven actriz ambiciosa se cuela en la vida de una veterana estrella de Broadway. Ganadora de seis premios Óscar.</string>
+
+    <string name="movie_title_22">El séptimo sello (1957)</string>
+    <string name="movie_description_22">Una meditación existencial sobre la vida, la muerte y el significado de la existencia, dirigida por Ingmar Bergman.</string>
+
+    <string name="movie_title_23">La reina africana (1951)</string>
+    <string name="movie_description_23">Un capitán de barco y una misionera se embarcan en una peligrosa aventura durante la Primera Guerra Mundial. Protagonizada por Humphrey Bogart y Katharine Hepburn.</string>
+
+    <string name="movie_title_24">El mago de Oz (1939)</string>
+    <string name="movie_description_24">Una fantasía musical sobre el viaje de Dorothy al mágico mundo de Oz, donde aprende que no hay lugar como el hogar.</string>
+
+    <string name="movie_title_25">El acorazado Potemkin (1925)</string>
+    <string name="movie_description_25">Un clásico del cine soviético, dirigido por Serguéi Eisenstein, sobre la rebelión de marineros en el acorazado Potemkin.</string>
+
+    <string name="movie_title_26">Los siete samuráis (1954)</string>
+    <string name="movie_description_26">Una épica película japonesa dirigida por Akira Kurosawa sobre un grupo de samuráis que defienden a un pueblo de bandidos.</string>
+
+    <string name="movie_title_27">El ladrón de bicicletas (1948)</string>
+    <string name="movie_description_27">Una desgarradora historia neorrealista sobre un hombre que busca su bicicleta robada, esencial para su trabajo.</string>
+
+    <string name="movie_title_28">Gilda (1946)</string>
+    <string name="movie_description_28">Rita Hayworth brilla en este film noir sobre la relación tensa entre un hombre y la esposa de su jefe en un casino.</string>
+
+    <string name="movie_title_29">El gabinete del Dr. Caligari (1920)</string>
+    <string name="movie_description_29">Una obra maestra del cine expresionista alemán, que relata una inquietante historia de manipulación mental.</string>
+
+    <string name="movie_title_30">Tiempos modernos (1936)</string>
+    <string name="movie_description_30">Una comedia clásica de Charlie Chaplin que satiriza la industrialización y los cambios sociales en los años 30.</string>
+
+    <string name="days">Day %d</string>
+</resources>
+

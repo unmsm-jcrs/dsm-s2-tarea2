@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title_buho">Rowlet</string>
+    <string name="title_gato_verde">Sprigatito</string>
+    <string name="title_lagarto">Charmander</string>
+    <string name="title_ornitorinco_amarillo">Psyduck</string>
+    <string name="title_squinkkle">Squirtle</string>
+
+    <string name="info_buho">buho (Pokemón 1)</string>
+    <string name="info_gato_verde">gato verde raro (Pokemón 2)</string>
+    <string name="info_lagarto">lagarto de fuego (Pokemón 3)</string>
+    <string name="info_ornitorinco_amarillo">ornitorrinco amarillo (Pokemón 4)</string>
+    <string name="info_squinkkle">tortuga azul rara (Pokemón 5)</string>
+
+
+    <string name="desc_buho">Rowlet</string>
+    <string name="desc_gato_verde">Sprigatito</string>
+    <string name="desc_lagarto">Charmander</string>
+    <string name="desc_ornitorinco_amarillo">Psyduck</string>
+    <string name="desc_squinkkle">Squirtle</string>
+</resources>
